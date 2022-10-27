@@ -1,0 +1,80 @@
+[
+    {
+        
+      "id": 1,
+      "title": "Digital-Marketing ",
+      "name": "Ashikur-Rahman ",
+      "price":6000,
+      "description": "Digital Marketing is crucial because it connects a firm with its clients when they are working digitally. When companies appear on search engine portals through SEO and PPC, on social media with the help of digital marketing tactics, and via email through email marketing, it builds a connection with ideal customers.",
+      "category": "Off-line",
+      "image": "https://the7.vn/wp-content/uploads/2020/12/digital-marketing-la-gi.jpg",
+      "rate": 3.9,
+      "view": 700
+      
+    },
+    {
+        
+      "id": 2,
+      "title": "Website-Design",
+      "name": "Atikur-Zahman ",
+      "price": 12000,
+      "description": "A well-designed website can help you form a good impression on your prospective customers. It can also help you nurture your leads and get more conversions. But, more importantly, it provides good user experience and helps your website visitors access and navigate your website with ease.",
+      "category": "Online",
+      "image": "https://miro.medium.com/max/1400/1*aTYOTFS4Vkr-nwHNML3GvQ.jpeg",
+      "rate": 4.9,
+      "view": 1200
+
+    },
+    {
+        
+      "id": 3,
+      "title": "Graphics-Design",
+      "name": "Rokibul-Hasan ",
+      "price": 7500,
+      "description": "Graphic design not only makes something look good, it organizes information to help deliver a message in the most impactful way possible. When you combine the right image, a well-written headline, professionally executed in a well-established package, then BOOM! The message hits its target.",
+      "category": "Online",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwGzAq3blQ1-ZqIqrevPTSPHMHg47VjEAiJtUpeG0DG24CldF8uVzJBx-RvvqGwMAHG3I&usqp=CAU",
+      "rate": 3.5,
+      "view": 850
+
+    },
+    {
+        
+      "id": 4,
+      "title": "Search-Engine-Optimization",
+      "name": "Guas-Uddin",
+      "price": 5500,
+      "description": "In short, SEO is crucial because it makes your website more visible, and that means more traffic and more opportunities to convert prospects into customers. Check out the SEO tools you can use for optimal ranking.",
+      "category": "Online",
+      "image": "https://zagfirst.com/wp-content/uploads/2018/06/search-engine-optimization.jpg",
+      "rate": 4.0,
+      "view": 900
+
+    },
+    {
+        
+      "id": 5,
+      "title": "Content-Writing",
+      "name": "jubayer-Alamin",
+      "price":6500,
+      "description": "Content writing allows you to be active in your field and present your business ideas in various forms and on multiple platforms. Posting regular content lets people know what your business is about. It informs them about what you do and how you can help them. This drives the interest of people more in your business.",
+      "category": "Off-line",
+      "image": "https://miro.medium.com/max/1344/1*Joj7zejs22i83DqB_d-HUw.jpeg",
+      "rate": 4.5,
+      "view":650
+
+    },
+    {
+        
+      "id": 6,
+      "title": "Outsourcing",
+      "price": 7000,
+      "description": "Companies use outsourcing to cut labor costs, including salaries for their personnel, overhead, equipment, and technology. Outsourcing is also used by companies to dial down and focus on the core aspects of the business, spinning off the less critical operations to outside organizations.",
+      "category": "Off-line",
+      "image": "https://miro.medium.com/max/939/1*dA2deHjgX9T2lw_KOliVBQ.jpeg",
+      "rate": 3.75,
+      "view": 550
+
+    }
+   
+]
